@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Dany
+# 👋 Hello, I'm Danish 
 
-## 💻 Software Developer | Full-Stack Enthusiast | Java, Python & JavaScript Developer
+## 💻 Software Developer | Full-Stack Enthusiast | Java & JavaScript Developer
 
 Welcome to my GitHub! I'm a developer who thrives on building functional and user-friendly applications from the ground up. I love blending and designing creativity with logic to solve real-world problems and continuously strive to improve my craft through learning and collaboration.
 
@@ -12,17 +12,6 @@ Welcome to my GitHub! I'm a developer who thrives on building functional and use
 - 🧠 Always learning new frameworks, tools, and best practices.
 - 🚀 Interested in building scalable web applications and contributing to open-source.
 - 🧩 Problem-solver who enjoys tackling coding challenges and architecting clean solutions.
-- 
-- ## 🏗️ Currently Building
-
-**🛒 Sales Savy Project** — An E-Commerce Web Application  
-A full-stack e-commerce platform aimed at providing a seamless buying and selling experience.  
-Tech Stack: Java, SpringBoot
-
-- 🔍 User authentication, product browsing, and cart functionality
-- 📦 Admin dashboard for managing products and orders
-- 📈 Integrated analytics and sales tracking
-- 💳 Secure payment gateway integration (in progress)
 
 
 ---
