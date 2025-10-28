@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm a developer who thrives on building functional and use
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 📦 Back-End
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
