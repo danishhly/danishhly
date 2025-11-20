@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm a developer who thrives on building functional and use
 ## 💬 Let's Connect
 
 - 📫 Email: dnsh.1inn@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/danish-ashrafse/)  
+- 💼 LinkedIn: [Danish Ashraf](https://www.linkedin.com/in/danish-ashrafse/)  
 
 ---
 
