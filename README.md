@@ -66,17 +66,3 @@ Welcome to my GitHub! I'm a developer who thrives on building functional and use
 
 ---
 
-## 📖 Fun Facts
-
-- I prefer clean terminals and dark mode IDEs.  
-- I’m always refactoring something.  
-- I believe in **learning in public** — sharing your journey helps you and others grow.  
-- I love debugging — it’s like solving mini puzzles every day.
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
-
-Thanks for stopping by! Feel free to reach out or connect anytime.
