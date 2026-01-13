@@ -1,6 +1,6 @@
 # I'm Danish
 
-## Software Developer | Full-Stack Engineer | Java & JavaScript Specialist
+##  | Full-Stack Developer | Linux User
 
 Welcome to my professional portfolio. I am a goal-oriented developer building scalable, functional applications. I blend efficient backend logic with responsive frontend design, utilizing **Spring Boot** and **Node.js** architectures.
 
