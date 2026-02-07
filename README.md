@@ -1,10 +1,10 @@
 # I'm Danish
 
-##  | Full-Stack Developer | Linux User
+##  | cloud | Linux User
 
 Welcome to my professional portfolio. I am a goal-oriented developer building scalable, functional applications. I blend efficient backend logic with responsive frontend design, utilizing **Spring Boot** and **Node.js** architectures.
 
-I am currently focused on **System Design**, **Microservices**, and **CI/CD Pipelines**, aimed at building distributed, high-performance applications.
+I am currently focused on **Cloud**, **System Design**, **Microservices**, and **CI/CD Pipelines**, aimed at building distributed, high-performance applications.
 
 ---
 
